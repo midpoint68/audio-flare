@@ -1,0 +1,3 @@
+[submodule "pocket"]
+	path = pocket
+	url = https://github.com/midpoint68/pocket.git

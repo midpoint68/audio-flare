@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "target": "ES6",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "sourceMap": false,
+        "outFile": "audio-flare.js",
+        "strict": true,
+    },
+    "files": [
+        "audio-flare.ts"
+    ]
+}
